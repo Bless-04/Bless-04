@@ -3,8 +3,8 @@
 Senior CS @ Towson University (Fall 2026) • Baltimore, MD
 
 ## 🌐 External Links:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/blessing_abumere04/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/blessing-abumere-a5804523b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/blessing_abumere04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blessing-abumere-a5804523b/) 
 [![Website](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=hyper&logoColor=white)](https://cv-blessing.vercel.app/)
 
 # 📊 GitHub Stats:
